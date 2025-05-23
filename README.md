@@ -132,4 +132,3 @@ ridenow-uber-clone/
 - [OpenStreetMap](https://www.openstreetmap.org/)
 - [Stripe](https://stripe.com/)
 - [Lucide Icons](https://lucide.dev/)
-```
