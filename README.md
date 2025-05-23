@@ -124,11 +124,6 @@ ridenow-uber-clone/
 - **Ride Sharing**: Allow users to share rides with others
 - **Multiple Payment Methods**: Support for various payment options
 
-
-## 📄 License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
 ## 🙏 Acknowledgements
 
 - [Next.js](https://nextjs.org/)
